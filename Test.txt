@@ -1,0 +1,3 @@
+Git Ignore: When sharing your code with others, there are often files or parts of your project, you do not want to share like (log files, temp files, hidden files,personal files)
+
+ 
