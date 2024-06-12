@@ -1,4 +1,12 @@
 Git Ignore: When sharing your code with others, there are often files or parts of your project, you do not want to share like (log files, temp files, hidden files,personal files)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 SSH: It is a secure shell network protocol that is used for network management, remote file transfer, and remote system access.
-Pull Request:  Is a method used to notify team members that a developer has completed a feature, bug fix, or other task and is requesting that their changes be reviewed and potentially merged into the main codebase. Pull requests are particularly common in collaborative development environments and are a key feature of platforms like GitHub, GitLab, and Bitbucket.
- 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Pull Request:  Is a method used to notify team members that a developer has completed a feature, bug fix, or other task and is requesting that their changes be reviewed and potentially merged into the main codebase.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Tags: A tag is a reference to a specific commit, typically used to mark a version or a release point. There are two types of tags in Git 
+      1)Lightweight Tags: These are simply pointers to a specific commit. They do not have any additional metadata and are quick to create.
+      2)Annotated Tags: These tags are stored as full objects in the Git database. They can include additional information such as the tagger's name, email, date, and a tagging message.
+
+Release: is a higher-level concept often associated with Git hosting services like GitHub, GitLab, and Bitbucket. A release typically involves a tag and includes additional metadata and binary files associated with the release. Creating a release on these platforms provides a convenient way to package and distribute software.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
